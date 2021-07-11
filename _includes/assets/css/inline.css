@@ -1,7 +1,13 @@
 :root {
+<<<<<<< HEAD
   --primary: blue;
   --secondary: white;
   --background: #fff0eb;
+=======
+	--primary: blue;
+	--secondary: white;
+	--background: #fff0eb;
+>>>>>>> 57b0d938fd4054b818226d693a9c474811cb60e8
 }
 
 *,
@@ -19,11 +25,19 @@ body {
 }
 
 body {
+<<<<<<< HEAD
   display: grid;
   height: 100vh;
   grid-template-rows: auto 1fr auto;
   background-color: var(--background);
   place-items: center;
+=======
+	display: grid;
+	height: 100vh;
+	grid-template-rows: auto 1fr auto;
+	background-color: var(--background);
+	place-items: center;
+>>>>>>> 57b0d938fd4054b818226d693a9c474811cb60e8
 }
 
 main {
