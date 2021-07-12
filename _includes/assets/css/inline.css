@@ -173,6 +173,7 @@ a[rel='tag']:last-child {
 form {
   display: grid;
   padding: 2em 0;
+  width: 70%;
 }
 
 form label {
