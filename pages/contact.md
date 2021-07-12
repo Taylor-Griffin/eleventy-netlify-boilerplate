@@ -11,4 +11,6 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-I would love to hear from you.
+I would love to hear from you! 
+
+![](/static/img/noun_social-media_1629680.png)
