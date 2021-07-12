@@ -24,11 +24,6 @@ body {
   grid-template-rows: auto 1fr auto;
   background-color: var(--background);
   place-items: center;
-
-  display: grid;
-  height: 100vh;
-  grid-template-rows: auto 1fr auto;
-  background-color: var(--background);
 }
 
 main {
@@ -98,6 +93,8 @@ header > em {
 
 /* Header Nav */
 header nav ul {
+  display: flex;
+  justify-content: center;
   padding: 0;
   list-style: none;
 }
