@@ -183,7 +183,7 @@ form label {
 input,
 textarea,
 button {
-  width: 100%;
+  width: 28rem;
   padding: 1em;
   border-radius: 5px;
   margin-bottom: 1em;
