@@ -1,7 +1,7 @@
 :root {
-  --primary: #f7f7f7;
+  --primary: blue;
   --secondary: white;
-  --background: #000;
+  --background: lightgrey;
 }
 
 *,
@@ -90,7 +90,7 @@ pre {
 /* Header Logo (style as h2) */
 header > em {
   display: block;
-  font-size: 2.5em;
+  font-size: 2.6em;
   margin: 0.67em 0;
   font-weight: bold;
   font-style: normal;
@@ -121,7 +121,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current='current item'] {
-  background-color: var(--primary);
+  background-color: white;
 }
 
 /* Posts List */
