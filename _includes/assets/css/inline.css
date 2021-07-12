@@ -16,7 +16,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 body {
@@ -35,6 +35,10 @@ p,
 pre,
 code {
   line-height: 1.5;
+}
+
+p {
+  font-family: ;
 }
 
 a[href],
