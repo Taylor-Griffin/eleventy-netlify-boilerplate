@@ -173,7 +173,6 @@ a[rel='tag']:last-child {
 form {
   display: grid;
   padding: 2em 0;
-  width: 70%;
 }
 
 form label {
@@ -185,6 +184,7 @@ textarea,
 button {
   width: 100%;
   padding: 1em;
+  border-radius: 5px;
   margin-bottom: 1em;
   font-size: 1rem;
   font-family: 'Avenir', 'Avenir Next', sans-serif;
