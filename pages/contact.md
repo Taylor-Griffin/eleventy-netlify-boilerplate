@@ -13,4 +13,4 @@ eleventyNavigation:
 ---
 I would love to hear from you! 
 
-![](/static/img/noun_social-media_1629680.png)
+![]()
